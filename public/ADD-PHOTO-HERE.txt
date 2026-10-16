@@ -1,0 +1,1 @@
+Add your personal photo here. Rename the image file to aniket-photo.jpg and put it directly inside this public folder. Then rebuild/redeploy the site.
