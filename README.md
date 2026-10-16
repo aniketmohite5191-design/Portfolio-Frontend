@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aniket Mohite — Developer Portfolio
 
 A responsive React + Vite portfolio with a day/night theme switch, gradients, CSS animations, project cards, skills, education timeline, and a contact form.
@@ -87,3 +88,6 @@ The day/night toggle is in the top navigation and remembers the visitor's choice
 - In `src/App.jsx`, replace `https://www.linkedin.com/` with your actual LinkedIn profile URL.
 - Replace the FormSubmit endpoint and displayed email with your real email, then complete FormSubmit verification as described above.
 - The “Let’s talk” and “Get in touch” links now explicitly smooth-scroll to the Contact section.
+=======
+# Portfolio-Frontend
+>>>>>>> 0be2a3c6706e9d99f82f2bdb1ef348f28951c912
